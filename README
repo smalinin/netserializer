@@ -1,3 +1,6 @@
+Project was moved to https://github.com/smalinin/netserializer2
+
+
 Updated version of NetSerializer.
 Changes:
 - The next types were added to list of supported serialization types:
